@@ -149,6 +149,5 @@
 <img src="https://github.com/user-attachments/assets/49c08fb8-797c-4899-9ff3-6e98b6075187" width="800" />
 <br />
 <img src="https://github.com/user-attachments/assets/bd1fcbc3-8cae-4c0f-992c-f44cce82cdfd" height="300" />
-<img src="https://github.com/user-attachments/assets/3cea2446-433a-4331-9ecf-eae5c487ad1b" height="300" />
 <p>&nbsp;</p>
 
